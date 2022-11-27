@@ -1,4 +1,3 @@
-![logo](https://github.com/gkiplangat/gkiplangat/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Gideon Kiplangat</h1>
 <h3 align="center" ><i>A Passionate fullstack junior Developer</i></h3>
   
