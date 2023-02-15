@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/gkiplangat/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gkiplangat&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gkiplangat&theme=vue&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 <a href="https://github.com/gkiplangat/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gkiplangat&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
