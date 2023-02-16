@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gideon Kiplangat</h1>
-<p align="center" ><i>A Passionate fullstack junior Developer</i></p>
+<p align="center" ><i>A Passionate Software Engineer</i></p>
 
 <p align="center">
 <a href="https://github.com/gkiplangat/github-readme-activity-graph#gh-light-mode-only">
